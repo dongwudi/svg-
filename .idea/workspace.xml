@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3daab8f-0cc6-4334-85ff-7c0ebc1508e0" name="Default" comment="" />
+    <list default="true" id="f3daab8f-0cc6-4334-85ff-7c0ebc1508e0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/2.SVG嵌入html文档.html" afterPath="$PROJECT_DIR$/2.SVG嵌入html文档.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,13 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2.SVG嵌入html文档.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2.SVG嵌入html文档.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="10-1.svg高斯模糊.svg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10-1.svg高斯模糊.svg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -36,6 +36,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="svg" />
       </list>
     </option>
   </component>
@@ -48,6 +49,15 @@
         <option value="$PROJECT_DIR$/1.svg实例.html" />
         <option value="$PROJECT_DIR$/1.svg实例.svg" />
         <option value="$PROJECT_DIR$/2.SVG嵌入html文档.html" />
+        <option value="$PROJECT_DIR$/3.svg矩形.svg" />
+        <option value="$PROJECT_DIR$/4.svg圆形.svg" />
+        <option value="$PROJECT_DIR$/5.svg椭圆.svg" />
+        <option value="$PROJECT_DIR$/6.svg线条.svg" />
+        <option value="$PROJECT_DIR$/7.svg多边形.svg" />
+        <option value="$PROJECT_DIR$/8.svg折线.svg" />
+        <option value="$PROJECT_DIR$/9.svg路径.svg" />
+        <option value="$PROJECT_DIR$/10.svg滤镜.svg" />
+        <option value="$PROJECT_DIR$/10-1.svg高斯模糊.svg" />
       </list>
     </option>
   </component>
@@ -62,6 +72,9 @@
     <option name="y" value="55" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -98,6 +111,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\jlxuexi\svg-learn" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,12 +143,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516863235791</updated>
-      <workItem from="1516863250739" duration="1451000" />
+      <workItem from="1516863250739" duration="6918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1451000" />
+    <option name="totallyTimeSpent" value="6918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -179,12 +198,62 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/3-1.rect.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2.SVG嵌入html文档.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="500">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.svg矩形.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.svg圆形.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.svg椭圆.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.svg线条.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.svg多边形.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.svg折线.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.svg路径.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.svg滤镜.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-1.svg高斯模糊.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
