@@ -1,0 +1,41 @@
+h1 {
+    color: #847779;
+    text-align: center;
+}
+
+article.sound {
+    width: 600px;
+    margin: 200px auto;
+    outline: 1px solid red;
+    overflow: hidden;
+    font-size: 0;
+    height: 200px;
+}
+
+article.sound section.sound-content {
+    float: left;
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    font-size: 16px;
+}
+
+article.sound section.sound-content a {
+    text-align: center;
+    position: relative;
+    display: block;
+}
+
+article.sound section.sound-content a img {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+article.sound section.sound-content a span {
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    color: purple;
+    font-weight: 700;
+}
